@@ -15,7 +15,9 @@ Breaking changes:
 
 New features:
 
-- Create an upgrade step to 5020 from 5019.
+- Add js-shortcuts package for keyboard shortcuts
+  [b4oshany]
+- Update package version to 5020 from 5019.
   [b4oshany]
 - Add more ignores to static/.gitignore.
   [thet]
