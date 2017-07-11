@@ -15,6 +15,8 @@ Breaking changes:
 
 New features:
 
+- Create an upgrade step to 5020 from 5019.
+  [b4oshany]
 - Add more ignores to static/.gitignore.
   [thet]
 
