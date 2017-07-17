@@ -17,15 +17,19 @@ New features:
 
 - Add js-shortcuts package for keyboard shortcuts
   [b4oshany]
+
 - Update package version to 5020 from 5019.
   [b4oshany]
+
 - Add more ignores to static/.gitignore.
   [thet]
 
 - Add jqtree contextual menu to the file tree.
   [b4oshany]
+
 - Include JS Patterns when loading a page via ajax or an iframe
   [displacedaussie, instification]
+
 - Update jqtree to 1.4.1
   [b4oshany]
 
